@@ -27,6 +27,8 @@ public class ProfileTest {
 	 	LandingPage landingpage=loginpage.doLogin("UserXXX", "test123");
 	 	ProfilePage profilepage=landingpage.gotoProfilePage();
 	 	profilepage.verifyProfile();
+
+	 	sysout();
 	
 	System.out.println("Hello");
 	}
