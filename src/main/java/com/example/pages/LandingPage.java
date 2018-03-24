@@ -18,6 +18,8 @@ public ProfilePage gotoProfilePage(){
 	System,out.println("Lading page added new line")
 	System,out.println("Lading page added 2nd line")
 	System,out.println("Lading page added 3nd line")
+	System,out.println("Lading page added 4nd line")
+	System,out.println("Lading page added 5nd line")
 	return profpage;
 }
  
