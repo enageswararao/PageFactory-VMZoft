@@ -16,6 +16,7 @@ public ProfilePage gotoProfilePage(){
 	
 	ProfilePage profpage=new ProfilePage();
 	System,out.println("Lading page added new line")
+	System,out.println("Lading page added 2nd line")
 	return profpage;
 }
  
